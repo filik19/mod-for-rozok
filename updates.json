@@ -1,6 +1,7 @@
 {
-  "latest": "1.0.0",
-  "1.0.0": {
-    "latest": true
+  "homepage": "https://github.com/filik19/mod-for-rozok",
+  "promos": {
+    "1.21.8-latest": "1.0.0",
+    "1.21.8-recommended": "1.0.0"
   }
 }
