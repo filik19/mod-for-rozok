@@ -1,9 +1,9 @@
 # Mod For Rožok
 Minecraft Mod for my friend from Slovakia
 ## WHAT I ADDED:
-- Rožok
+- Brambora
 - Vegeta
-- Rožok Block
+- Brambora Block
 - Ajo Entity
 
 Pls not hate plspls
